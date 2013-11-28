@@ -1,0 +1,20 @@
+{
+	"version":"1.0",
+	"name":"Whack a Mole",
+	"description":"MelonJS Game in Firefox OS",
+	"launch_path":"/index.html",
+	"icons":{
+		"16":"/data/img/icons/icon_16.png",
+		"30":"/data/img/icons/icon_30.png",
+		"48":"/data/img/icons/icon_48.png",
+		"60":"/data/img/icons/icon_60.png",
+		"128":"/data/img/icons/icon_128.png"
+	},
+	"developer":{
+		"name":"MelonJS",
+		"url":"http://melonjs.org"
+	},
+	"installs_allowed_from":["*"],
+	"default_locale":"en",
+	"orientation":["landscape"]
+}
